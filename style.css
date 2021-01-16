@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cor_branco{
+    color: white;
+}
+.sobre{
+    margin-top: 50px;
+}
+.icones{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cursos{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tira_link{
+    text-decoration: none;
+    color: white;
+}
